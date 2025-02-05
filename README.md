@@ -1,4 +1,3 @@
-Sure! Based on your request, here's the updated version with the correct repository URL and the changes made accordingly:
 
 Resume Screening 🤖📄
 This repository contains a machine learning project focused on automating the resume screening process using Python. The goal is to create a model that efficiently and accurately evaluates resumes based on predefined criteria. 🚀
@@ -62,14 +61,10 @@ Getting Started 🚀
 To get started with the project:
 
 Clone the repository to your local machine:
-
-bash
 Copy
 git clone https://github.com/Divabhattacharya/Machine-Learning-.git
 cd Machine-Learning-
 Install required dependencies:
-
-bash
 Copy
 pip install -r requirements.txt
 Usage 🖥️
@@ -98,6 +93,7 @@ Each model is trained and evaluated using accuracy, precision, recall, and F1-sc
 Performance Evaluation 📈
 The models are evaluated on their ability to classify resumes accurately. We measure:
 
+
 Accuracy: How often the model correctly classifies resumes.
 Precision: The accuracy of positive predictions (e.g., correctly identifying a qualified candidate).
 Recall: The model’s ability to find all relevant candidates.
@@ -105,12 +101,15 @@ F1-Score: The balance between precision and recall.
 Contributing 🤝
 Contributions are welcome! If you have ideas for improvements or new features, feel free to:
 
+
 Open an issue.
 Submit a pull request.
 License 📝
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact Information 📧
+
+
 For any inquiries or collaboration:
 
 Diva Bhattacharya
